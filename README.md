@@ -8,7 +8,7 @@ OmniLantern is a novel lantern-like projector-camera system, which is calibratio
 Users could enjoy the projection while they are walking, or they could switch on the projector after placing OmniLantern. A 180-degree omnidirectional lens is used for solving the calibration problem. AR code markers made by retroreflective material is used for positioning. Our system could be widely used for navigation, sharing information, room augmentation or escape in an emergency. Also, face detection is used for solving the dizziness while users are looking at the projector. And a lampshade with touching interactions improves the functionality of OmniLantern.
   
   
-![OmniLantern](images/cover.png)
+![OmniLantern](Images/cover.png)
   
 **You can watch the introducation of OmniLantern here ↓**
   
